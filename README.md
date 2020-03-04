@@ -77,6 +77,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [BigID](https://bigid.com/)
 * [Wirewheel](https://wirewheel.io)
 * [Collibra](https://www.collibra.com)
+* [Osano](https://www.osano.com)
     
 ## Related
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
